@@ -15,7 +15,6 @@
     <p>If a dog chews shoes whose shoes does he choose?</p>
     <div class="card-actions justify-end">
       <button class="btn btn-primary">Buy Now</button>
-      <button class="btn bg-green-600 hover:bg-red-500">buy now</button>
     </div>
   </div>
 </div>
